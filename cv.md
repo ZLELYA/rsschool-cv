@@ -17,20 +17,9 @@ I aim to excel as a frontend developer, focusing on creating user-friendly and v
 ## Code example
 
 ```
-<html>
-<title>Menu</title>
-<body>
-<p>Thanks for giving us a hand! On the web page we just need something simple (see below)
-that includes the beverage names, prices, and descriptions. </p>
-<h1>House Blend, $1.49 </h1>
-<p>A smooth, mild blend of coffees from Mexico, Bolivia and Guatemala.</p> 
-<h1>Mocha Cafe Latte, $2.35 </h1>
-<p>Espresso, steamed milk and chocolate syrup.</p> 
-<h1>Cappuccino, $1.89</h1> 
-<p>A mixture of espresso, steamed milk and foam. Chai Tea, $1.85
-A spicy drink made with black tea, spices, milk and honey</p> 
-</body>
-</html>
+function countSheeps(sheep) {
+  return sheep.filter(sheep => !!sheep).length;
+}
 ```
 
 ## Experience
