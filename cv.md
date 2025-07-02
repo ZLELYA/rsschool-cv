@@ -7,12 +7,17 @@ Batumi, Georgia
 * E: tatty_teddy_l@protonmail.com
 
 ## About me
-I aim to excel as a frontend developer, focusing on creating user-friendly and visually appealing web interfaces while continuously learning and growing in the field. I used to work in various industries, from Hospitality to IT. Currently I'm providing Customer Support and mentoring younger colleagues in HotelPORT®.
+I've been living in Georgia for three years. I'm married, have two cats, and enjoy learning new skills for fun.
 
 ## Skills
 * Strong problem-solving skills
 * Attention to detail
 * Proficiency in HTML, CSS, and JavaScript
+
+## Hobbies
+* Singing
+* Knitting
+* Pets' behavioural study
 
 ## Code example
 
@@ -42,5 +47,7 @@ Professional Development and Courses:
 ## English
 
 - **IELTS:** C1 level (2018)
-- **Training:** EF School in Cambridge for one month (2010)
-- **Current Role:** Fluent English-speaking customer support with positive feedback from colleagues
+- **Training:** EF School in Cambridge (2010)
+
+## Current Role
+Growth Manager in iGaming company
